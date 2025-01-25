@@ -15,9 +15,11 @@ All trials in Experiment 2 ensured that the target cue stimulus never reappeared
 
 
 ![image](https://github.com/user-attachments/assets/2718931e-f1a9-4c04-9a89-7515718d92a9)
+
 Example of Exp 1. target image; search image; attention map image (target different trial example)
 
 ![image](https://github.com/user-attachments/assets/57fa4000-ed94-439c-84fd-572819905a0e)
+
 Example of Exp 2. target image; search image; attention map image (color-mismatch trial example)
 
 
