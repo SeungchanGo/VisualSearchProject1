@@ -12,3 +12,5 @@ Experiment 2 included color conditions:
 - Color Mismatch: A distractor stimulus had a color
 - Non-Match: No search stimuli had color
 All trials in Experiment 2 ensured that the target cue stimulus never reappeared in the subsequent search task.
+
+![image](https://github.com/user-attachments/assets/12225f44-9ab3-4eef-b350-c8487bddad49)
